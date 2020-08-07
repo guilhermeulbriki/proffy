@@ -32,15 +32,18 @@ To clone and run this application, from your command line:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/guilhermeulbriki/web-proffy.git
+$ git clone https://github.com/guilhermeulbriki/api-proffy.git
 
 # Go into the repository
-$ cd web
+$ cd server
 
 # Install dependencies
 $ yarn
 
-# Open on browser
+# Run migrates
+$ yarn knex:migrate
+
+# Start server
 $ yarn start
 ```
 
