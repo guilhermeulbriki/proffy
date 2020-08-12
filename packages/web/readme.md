@@ -33,10 +33,10 @@ To clone and run this application, from your command line:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/guilhermeulbriki/web-proffy.git
+$ git clone https://github.com/guilhermeulbriki/proffy
 
 # Go into the repository
-$ cd web
+$ cd packages/web
 
 # Install dependencies
 $ yarn

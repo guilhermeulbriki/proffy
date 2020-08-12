@@ -32,10 +32,10 @@ To clone and run this application, from your command line:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/guilhermeulbriki/api-proffy.git
+$ git clone https://github.com/guilhermeulbriki/proffy
 
 # Go into the repository
-$ cd server
+$ cd packages/server
 
 # Install dependencies
 $ yarn

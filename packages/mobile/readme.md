@@ -35,10 +35,10 @@ To clone and run this application, from your command line:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/guilhermeulbriki/app-proffy.git
+$ git clone https://github.com/guilhermeulbriki/proffy
 
 # Go into the repository
-$ cd mobile
+$ cd packages/mobile
 
 # Install dependencies
 $ yarn
